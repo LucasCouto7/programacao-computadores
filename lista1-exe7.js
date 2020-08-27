@@ -16,7 +16,7 @@ function ex7() {
     } while (num > 0)
 
     var result = media(soma, i)
-    console.log("Média dos números:", result)
+    console.log("Média dos números =", result)
 }
 
 
